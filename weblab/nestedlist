@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>nested list</title>
+</head>
+
+<body>
+<h6>EL CLASICO</h6>
+<ol>
+	<li>BARCELONA</li>
+	<ul>
+		<li>LEWANDOWSKI</li>
+		<li>RAPHINHA</li>
+		<li>LAMINE YAMAL</li>
+	</ul>
+	<li>REAL MADRID</>
+	<ul>
+		<li>VINICIOUS</li>
+		<li>MBAPPE</li>
+		<li>RODRYGO</li>
+	</ul>
+</ol>
+	
+
+</body>
+
+</html>
+

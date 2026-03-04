@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+	<title>My Website</title>
+</head>
+
+<body>
+<table border="1">
+
+<tr>
+<th>Name</th>
+<th>District</>
+</tr>
+
+<tr>
+<td>Rahan</td>
+<td>Kottayam</td>
+</tr>
+
+<tr>
+<td>Rinshi</td>
+<td>Kozhikode</td>
+</tr>
+
+</body>
+</html>
